@@ -1,2 +1,0 @@
-# springcloudTestConfig
-测试springcloudConfig
